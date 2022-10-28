@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.q{
+    width: 400px;
+    height: 150px;
+    background-color: orange
+}
+
+.c{
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+    border-radius: 50%;
+    margin-left: 60px;
+    margin-top: ;
+    border: solid brown;
+}
+
+#nome{
+    font-size: 6rem;
+    margin-left: 420px;
+    margin-top: -600px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    
+}
+
+#nome2{
+    margin-left: 670px;
+    margin-top: -106px;
+    font-size: 6rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+}
+
+#descriçãodonome{
+    font-size: 1.6rem;
+    margin-left: 420px;
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#descriçãodonome2{
+    font-size: 1.6rem;
+    margin-left: 880px;
+    margin-top: -29px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+}
+
+#nc{
+    font-size: 1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 410px;
+    margin-top: 60px;
+    color: darkgrey;
+}
+
+#n1{
+    margin-left: 120px;
+    margin-top: -30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#n2{
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 60px;
+    color: coral;
+    
+}
+
+#n3{
+    margin-left: 90px;
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: coral;
+}
